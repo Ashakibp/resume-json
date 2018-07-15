@@ -1,0 +1,187 @@
+{
+  "basics": {
+    "name": "Aaron Shakibpanah",
+    "label": "Student",
+    "picture": "profile-pic.jpg",
+    "email": "aaronshakib@gmail.com",
+    "phone": "(305) 746-0049",
+    "website": "http://aaronshakib.com",
+    "summary": "Aaron is from Miami, and he is currently in the process of earning a degree from Yeshiva University in Computer Science. Before his internship at Deloitte, he founded The ACM at Yeshiva University, and was the Director of Consulting for TAMID at Yeshiva University. While Aaron is currently working in Tax Technology, his passion is for building large, scaleable, and fault tolerant architechture.",
+    "location": {
+      "address": "516 W 188st Apt 31",
+      "postalCode": "10040",
+      "city": "New York",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "Ashakibp",
+        "url": "https://github.com/Ashakibp"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/aaron-shakib-46aa17a9/"
+      }
+
+    ]
+
+  },
+  "work": [
+    {
+      "company": "Deloitte",
+      "position": "Tax Technology Consulting Intern",
+      "website": "https://www.deloitte.com",
+      "startDate": "2018-01",
+      "endDate": "2018-8",
+      "summary": "Deloitte is one of the 'Big Four' accounting organizations and the largest professional services network in the world by revenue and number of professionals. Deloitte provides audit, tax, consulting, enterprise risk and financial advisory services with more than 263,900 professionals globally.",
+      "highlights": [
+        "Developed highly optimized modeling software regarding tax reform for clients and their subsidiaries",
+        "Built a roadmap for the team's technology devision with business use cases for every new technology being incorporated and a design for the team's serverless architechture",
+        "Helped create a distributed system for processing some of the team's more robust models",
+        "Technologies Used: Python, C#, VBA, AWS (Lambda, EC2, and S3)"
+      ]
+    },
+    {
+      "company": "ACM at Yeshiva University",
+      "position": "Founder and Chairman",
+      "startDate": "2017-12",
+      "endDate": "2019-5",
+      "summary": "The ACM (Association for Computing Machinery), founded in 1947, is the largest and oldest international scientific and industrial computer society. Through its many Special Interest Group s, the ACM fosters research and communication in a broad range of computing areas. At Yeshiva University, the focus of the ACM is to have bi-weekly workshops to introduce students to new technologies, host engaging speakers, and provide a platform for students to prepare themselves to be as effective in the computing industry as possible.",
+      "highlights": [
+        "Founded the club under Yeshiva University and The ACM",
+        "Hosted/Hosting bi-weekly workshops for students"
+      ]
+    },
+    {
+      "company": "InteractBot",
+      "position": "Software Engineering Intern",
+      "website": "http://interact.bot",
+      "startDate": "2018-01",
+      "endDate": "Current",
+      "summary": "InteractBot is a hybrid chatbot solution for enterprise companies.",
+      "highlights": [
+        "Built and distributed python modules for integration with enterprise clients and their platforms",
+        "Developed several programs that enrich and organize extremely large datasets",
+        "Deployed various REST APIs for clients",
+        "Technologies Used: Python, JavaScript, MongoDB, SQL, and Flask/Bottle"
+      ]
+    },
+      {
+    "company": "TAMID Group",
+    "position": "Project Manager/Director of Consulting/National Consulting Committee Member/Fellow",
+    "website": "http://tamidgroup.org",
+    "startDate": "2017-01",
+    "endDate": "2018-01",
+    "summary": "The TAMID Group is a nonprofit organization that develops the professional skills of undergraduate students through hands-on interaction with the Israeli economy via consulting for Israeli startups and managing an investment fund.",
+    "highlights": [
+      "Managed a consulting team working with the CEO of an Israeli Telemedicine Startup",
+      "Looked over several consulting teams and their clients with regular surveys and team meetings to ensure an effective turnout",
+      "Helped create new educational material for consulting teams nationwide and attended regular meetings with the consulting commitee",
+      "One of 120 students selected to work and study in israel for the summer"
+    ]
+  }
+
+
+
+    
+  ],
+  "volunteer": [
+    {
+      "organization": "Yeshiva University",
+      "position": "Teacher's Assistant",
+      "website": "",
+      "startDate": "2017-9",
+      "endDate": "2018-1",
+      "summary": "Teacher's assistant for Intro To Computer Science with Java."
+    },
+    {
+      "organization": "Magen David Adom in Israel",
+      "position": "Medic",
+      "website": "https://www.mdais.org/en/",
+      "startDate": "2014-9",
+      "endDate": "2014-11",
+      "summary": "The Magen David Adom is Israel's national emergency medical, disaster, ambulance and blood bank service."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Yeshiva University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016-09",
+      "endDate": "2020-01",
+      "gpa": "3.4",
+      "courses": [
+        "Algorithms I",
+        "Computer Systems",
+        "Data Structures",
+        "Discrete Structures",
+        "Intro to Java"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microservices",
+      "level": "Beginner",
+      "keywords": [
+        "REST",
+        "Flask",
+        "Django",
+        "Python",
+        "MongoDB",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Natural language Processing",
+      "level": "Beginner",
+      "keywords": [
+        "NLP",
+        "NLTK",
+        "Python"
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "Beginner",
+      "keywords": [
+        "Lambda",
+        "Linux",
+        "EC2",
+        "AWS",
+        "S3"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Farsi",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Hebrew",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Distributed Computing",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Map Reduce",
+        "Cloud"
+      ]
+    }
+  ],
+  "references": [
+  ]
+}
