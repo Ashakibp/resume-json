@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Aaron Shakibpanah",
-    "label": "Student",
+    "label": "Student at Yeshiva University",
     "picture": "profile-pic.jpg",
     "email": "aaronshakib@gmail.com",
     "phone": "(305) 746-0049",
@@ -59,8 +59,8 @@
       "company": "InteractBot",
       "position": "Software Engineering Intern",
       "website": "http://interact.bot",
-      "startDate": "2018-01",
-      "endDate": "Current",
+      "startDate": "2017-05",
+      "endDate": "2017-8",
       "summary": "InteractBot is a hybrid chatbot solution for enterprise companies.",
       "highlights": [
         "Built and distributed python modules for integration with enterprise clients and their platforms",
